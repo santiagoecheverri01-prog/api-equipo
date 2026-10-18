@@ -1,0 +1,7 @@
+com\denkitronik\clienteservice\services\ClienteServiceImpl.class
+com\denkitronik\clienteservice\services\IClienteService.class
+com\denkitronik\clienteservice\entities\Cliente.class
+com\denkitronik\clienteservice\ClienteServiceApplication.class
+com\denkitronik\clienteservice\controllers\ClienteRestController.class
+com\denkitronik\clienteservice\entities\Region.class
+com\denkitronik\clienteservice\repositories\IClienteDao.class

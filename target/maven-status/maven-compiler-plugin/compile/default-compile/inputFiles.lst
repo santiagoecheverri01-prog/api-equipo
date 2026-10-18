@@ -1,0 +1,7 @@
+C:\Users\santi\IdeaProjects\cliente-service\src\main\java\com\denkitronik\clienteservice\ClienteServiceApplication.java
+C:\Users\santi\IdeaProjects\cliente-service\src\main\java\com\denkitronik\clienteservice\controllers\ClienteRestController.java
+C:\Users\santi\IdeaProjects\cliente-service\src\main\java\com\denkitronik\clienteservice\entities\Cliente.java
+C:\Users\santi\IdeaProjects\cliente-service\src\main\java\com\denkitronik\clienteservice\entities\Region.java
+C:\Users\santi\IdeaProjects\cliente-service\src\main\java\com\denkitronik\clienteservice\repositories\IClienteDao.java
+C:\Users\santi\IdeaProjects\cliente-service\src\main\java\com\denkitronik\clienteservice\services\ClienteServiceImpl.java
+C:\Users\santi\IdeaProjects\cliente-service\src\main\java\com\denkitronik\clienteservice\services\IClienteService.java
